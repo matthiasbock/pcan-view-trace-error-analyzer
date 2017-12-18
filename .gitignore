@@ -1,0 +1,10 @@
+# Temporary
+.~lock.*
+.*.swp
+
+# Documentation
+*.png
+*.pdf
+*.trc
+*.odt
+
