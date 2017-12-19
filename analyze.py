@@ -1,4 +1,8 @@
 #!/usr/bin/python
+#
+# Script to analyze the logfile output
+# of Peak-System's PCAN-View Trace utility
+#
 
 from sys import argv, exit
 
