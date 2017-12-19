@@ -87,7 +87,7 @@ class ECC_Info():
 #
 class Line:
     def __init__(self, line):
-                # Remove duplicate spaces to allow for splitting
+        # Remove duplicate spaces to allow for splitting
         line = line.strip()
         while line.find("  ") > -1:
             line = line.replace("  ", " ")
